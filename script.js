@@ -1,13 +1,13 @@
 // the used links
 var links = [
-    "muleyrohit.github.io/Quotes/1.html",
-    "muleyrohit.github.io/Quotes/2.html",
-    "muleyrohit.github.io/Quotes/3.html",
-    "muleyrohit.github.io/Quotes/4.html",
-    "muleyrohit.github.io/Quotes/5.html",
-    "muleyrohit.github.io/Quotes/6.html",
-    "muleyrohit.github.io/Quotes/7.html",
-    "muleyrohit.github.io/Quotes/8.html"
+    "rohitjmweb.github.io/Quotes/1.html",
+    "rohitjmweb.github.io/Quotes/2.html",
+    "rohitjmweb.github.io/Quotes/3.html",
+    "rohitjmweb.github.io/Quotes/4.html",
+    "rohitjmweb.github.io/Quotes/5.html",
+    "rohitjmweb.github.io/Quotes/6.html",
+    "rohitjmweb.github.io/Quotes/7.html",
+    "rohitjmweb.github.io/Quotes/8.html"
 
 ];
 
