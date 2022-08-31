@@ -1,0 +1,144 @@
+body {
+  font-family: Helvetica;
+  font-size: 15px;
+}
+
+
+header {
+    background-color : white;
+    color: black;
+    
+    height: 120px;
+    width: 100%;
+  }  
+
+/*   Links Section Starts   */
+
+a {
+	
+	
+}
+
+
+a:link { 
+  background-color: white;
+  color: DarkRed;
+  font-size: 14px;
+  font-style: normal;
+  font-family: helvetica;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
+
+a:visited {
+	
+	
+}
+
+
+a:focus {
+	
+	
+}
+
+
+a:hover {
+	
+	
+}
+
+
+a:active {
+	
+	
+}
+
+
+
+/*   Links Section Ends   */
+
+
+	
+
+#left {
+  height: 1px;
+  float: left;
+  display: block;
+  min-width: 0;
+  overflow: hidden;
+  width: 550px;
+  margin: 0;
+  padding: 0;
+}
+
+#wrapper {
+  float: left;
+  width: 400px;
+}
+
+#dashboard {
+  /* margin-top: 120px; */
+  /*float: left;*/
+  width: 400px;
+}
+
+#dashboard p {
+  color: #333;
+  line-height: 22px;
+  font-size: 15px;
+}
+
+#dashboard a:link {
+  background-color: white;
+  color:  #20b;
+  font-size: 14px;
+  font-style: normal;
+  font-family: helvetica;
+  font-weight: bold;
+  text-decoration: none;
+	
+}
+
+#dashboard a:visited {
+  color: #800080;
+	
+}
+
+
+
+#content {
+  /* margin-top: 120px; */
+  /*float: left;*/
+  width: 400px;
+}
+
+@media only screen and (max-width: 600px)  {
+ #content {
+	 width: 90%;
+	 margin-left: 5%;
+	
+	}
+	body { overflow-x: hidden; /* Hide scrollbars */ }
+	
+}
+
+@media only screen and (max-width: 1030px) and (min-width: 610px)  {
+ #content {
+	 width: 80%;
+	 margin-left: 10%;
+	
+	 
+	}
+	body { overflow-x: hidden; /* Hide scrollbars */ }
+	
+}
+
+#content p {
+  color: #333;
+  line-height: 22px;
+  font-weight: bold; 
+  font-size: 14px;
+ /* font-style: italic;*/
+}
