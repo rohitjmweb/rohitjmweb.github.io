@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Updates</title>
+  <link href="https://www.rohitmuley.com/"/>
+  <updated>2022-08-31T00:00:00Z</updated>
+  <author>
+    <name>Rohit Muley</name>
+  </author>
+  <id>https://www.rohitmuley.com/en.atom</id>
+
+  <entry>
+    <title>Why Didn't I Write More</title>
+    <link href="https://www.rohitmuley.com/Essays/writemore.html"/>
+    <id>https://www.rohitmuley.com/Essays/writemore.html</id>
+    <updated>2022-10-06T00:00:00Z</updated>
+    <summary>This started as an answer to ‘Why didn’t I Write More’, but by the time it finished, it started taking shape of ‘What I Write’, 
+      or the bar that I set to publish what I write.
+    </summary>
+  </entry>
+
+
+</feed>
