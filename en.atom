@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Updates</title>
-  <link href="https://www.rohitmuley.com/"/>
+  <link href="https://www.rohitmuley.com/" rel="alternate" type="text/html"/>
+  <link href="https://www.rohitmuley.com/en.atom" rel="self" type="application/atom+xml"/>
   <updated>2022-08-31T00:00:00Z</updated>
   <author>
     <name>Rohit Muley</name>
@@ -17,7 +18,7 @@
       or the bar that I set to publish what I write.
     </summary>
     
-    <content>
+    <content type="html" xml:base="https://www.rohitmuley.com/Essays/writemore.html">
      
       <p>This started as an answer to ‘Why didn’t I Write More’, but by the time it finished, it started taking shape of ‘What I Write’, or the bar that I 
 	set to publish what I write. 
